@@ -11,6 +11,7 @@ use Symfony\Component\Process\Process;
 
 class MakeInertiaTable extends Command
 {
+
     use \Illuminate\Console\DetectsApplicationNamespace;
 
     /**
